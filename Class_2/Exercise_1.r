@@ -41,6 +41,6 @@ poker["Mon"] + roulette["Mon"]
 poker["Tue"] + roulette["Tue"]
 
 # Vector selection examples
-poker[2]              # Tue
-poker[c(1, 5)]        # Mon and Fri
-poker[2:4]            # Tue, Wed, Thu
+poker[2]
+poker[c(1, 5)]
+poker[2:4]
